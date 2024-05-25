@@ -1,7 +1,6 @@
 name: manuflow_utils
 description: A Flutter package for an awesome ManuFlow
 version: 0.1.0+1
-publish_to: none
 
 environment:
   sdk: "^3.3.0"
